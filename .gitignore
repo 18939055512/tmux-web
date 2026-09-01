@@ -1,0 +1,11 @@
+# 敏感数据
+server/filebrowser.db
+*.db
+
+# 依赖与构建产物
+node_modules/
+web/dist/
+
+# 环境配置
+.env
+.env.*
